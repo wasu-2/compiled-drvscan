@@ -3,7 +3,7 @@
 
 Source: https://github.com/ekknod/drvscan?tab=readme-ov-file#drvscan
 
-C:\Users\Juho\source\repos\drvscan\Client\x64\Release>Client.exe --help
+```C:\Users\Juho\source\repos\drvscan\Client\x64\Release>Client.exe --help
 
 
 --scan                 scan target process memory changes
@@ -27,11 +27,11 @@ Example (verifying modules integrity by using cache):
 1.                     load malware
 1.                     drvscan.exe --scan --savecache --pid 4
 2.                     reboot the computer
-3.                     load windows without malware
+3.                     load windows with out malware
 4.                     drvscan.exe --scan --usecache --pid 4
 all malware patches should be now visible
 
 
 build date: Jul 22 2024, 10:55:00
 
-C:\Users\Juho\source\repos\drvscan\Client\x64\Release>
+C:\Users\Juho\source\repos\drvscan\Client\x64\Release>```
